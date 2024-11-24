@@ -1,2 +1,2 @@
 # Git-demo
-trial repository creation!!
+trial repository creation!!...
